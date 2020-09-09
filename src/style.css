@@ -1,0 +1,65 @@
+.kontoBox {
+	-fx-border-color: #7d7d7d;
+	-fx-padding: 2.0px;
+	-fx-background-color: white;
+}
+
+.skydMig {
+	-fx-background-color: #123;
+}
+
+.sidePanelBtn {
+	-fx-background-color: #123;
+	-fx-padding: 5.0px 0.0 5.0px 0.0; 
+	-fx-text-fill: white;
+}
+
+.sidePanelBtn:hover {
+	-fx-background-color: #789;
+	-fx-border-radius: 0.0;
+}
+
+.sidePanelBtnActive {
+	-fx-background-color: #789;
+	-fx-padding: 5.0px 0.0 5.0px 0.0; 
+	-fx-text-fill: white;
+}
+
+.kontiLabel {
+	-fx-padding: 10.0px 0.0 0.0 0.0;
+}
+
+HBox {
+	-fx-border-color: black;
+	-fx-padding: 5.0px;
+}
+
+
+.addButton{
+	-fx-background-color: #123;
+	-fx-text-fill: white;
+	-fx-border-radius: 500.0;
+	-fx-background-radius: 500.0;
+}
+
+.test {
+	-fx-background-color: red;
+}
+
+ButtonType {
+	-fx-text-fill: red;
+}
+
+.lommeRegnerTal {
+	-fx-background-color: white;
+	-fx-border-color: #333;
+	-fx-border-radius: 3.0px 
+}
+
+.lommeRegnerFunk {
+	-fx-background-color: lightgray;
+}
+
+.lommeRegnerOp {
+	-fx-background-color: #00c0ff;
+}
